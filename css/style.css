@@ -20,20 +20,20 @@ body {
   line-height: 1.2;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 0.7em;
   color: #4c4c4c;
 }
 
 p, .paragraph {
   font-weight: 100;
   color: #4c4c4c;
-  font-size: 15px;
+  font-size: 1.5em;
   line-height: 1.7;
   font-family: "Roboto", sans-serif;
 }
 
 p-lg, .paragraph-lg {
-  font-size: 22px;
+  font-size: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -43,31 +43,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 5em;
+  font-size: 6em;
 }
 
 @media (max-width: 991px) {
   h1, .h1 {
-    font-size: 65px;
+    font-size: 5em;
   }
 }
 
 h2, .h2 {
-  font-size: 60px;
+  font-size: 7em;
 }
 
 @media (max-width: 991px) {
   h2, .h2 {
-    font-size: 50px;
+    font-size: 4em;
   }
 }
 
 h3, .h3 {
-  font-size: 40px;
+  font-size: 4em;
 }
 
 h4, .h4 {
-  font-size: 22px;
+  font-size: 2em;
 }
 
 h5, .h5 {
@@ -80,7 +80,7 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-size: 22px;
+  font-size: 2em;
   font-family: "Roboto", serif;
   text-transform: capitalize;
   padding: 16px 44px;
