@@ -17,7 +17,7 @@ VERSION:	V1.1
 }
 
 body {
-  line-height: 0.1em;
+  line-height: 1em;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 0.9em;
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 5.6em;
+  font-size: 5em;
 }
 
 @media (max-width: 991px) {
@@ -53,13 +53,12 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 6em;
-  line-height: 1em;
+  font-size: 5em;
 }
 
 @media (max-width: 991px) {
   h2, .h2 {
-    font-size: 6em;
+    font-size: 5em;
   }
 }
 
@@ -81,7 +80,7 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-size: 2em;
+  font-size: 1.5em;
   font-family: "Roboto", serif;
   text-transform: capitalize;
   padding: 16px 44px;
