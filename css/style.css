@@ -39,11 +39,11 @@ p-lg, .paragraph-lg {
 h1, h2, h3, h4, h5, h6 {
   color: #000;
   font-family: "Roboto", serif;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 h1, .h1 {
-  font-size: 5em;
+  font-size: 4.8em;
 }
 
 @media (max-width: 991px) {
@@ -53,7 +53,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 5em;
+  font-size: 4.8em;
 }
 
 @media (max-width: 991px) {
@@ -491,11 +491,11 @@ textarea.form-control {
 
 #l3 {
   top: 250px;
-  left: 60%;
+  left: 65%;
 }
 
 #l4 {
-  top: 300px;
+  top: 400px;
   left: 80%;
 }
 
@@ -511,17 +511,18 @@ textarea.form-control {
 
 #l7 {
   bottom: 40px;
-  left: 10%;
+  right: 50%;
+  
 }
 
 #l8 {
-  bottom: 100px;
-  right: 45%;
+  bottom: 80px;
+  right: 10%;
 }
 
 #l9 {
-  bottom: 100px;
-  right: -10px;
+  bottom: 80px;
+  right: 4%;
 }
 
 .layer-bg {
