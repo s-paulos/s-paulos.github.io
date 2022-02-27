@@ -1,8 +1,8 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	SP
-VERSION:	V1.1
+PROJECT:  SP
+VERSION:  V1.1
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
@@ -17,10 +17,10 @@ VERSION:	V1.1
 }
 
 body {
-  line-height: 1.3em;
+  line-height: 1em;
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 1.4em;
+  font-size: 1em;
   color: #4c4c4c;
 }
 
@@ -28,7 +28,7 @@ p, .paragraph {
   font-weight: 100;
   color: #4c4c4c;
   font-size: 1.3em;
-  line-height: 1.3;
+  line-height: 1.5;
   font-family: "Roboto", sans-serif;
 }
 
